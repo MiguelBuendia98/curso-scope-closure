@@ -29,3 +29,17 @@ names = 'Juan';
 console.log(names);
 
 const names = 'pepito';
+names = 'Miguel';
+
+// ------------------------
+
+const vehicles = [];
+
+vehicles.push('Mazda 3');
+console.log(vehicles);
+
+vehicles.push('KIA Picanto');
+console.log(vehicles);
+
+vehicles.pop();
+console.log(vehicles);
